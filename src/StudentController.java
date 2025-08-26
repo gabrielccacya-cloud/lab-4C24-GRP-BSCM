@@ -1,6 +1,6 @@
-public class StudenCrontroller{
+public class StudentController {
 
-    public void controller(){
-        //TO DO
+    public void controller() {
+        System.out.println("Controlador de estudiante activo");
     }
 }
